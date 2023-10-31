@@ -1,3 +1,5 @@
+finalizado em aula-William Ruiz
+
 # Arvores AVL (Adelson Velsky e Landis)
 ---
 
